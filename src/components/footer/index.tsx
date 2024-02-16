@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="layout-page">
       <footer className="layout-page-footer">
-        <span>Gabriel - todos os direitos reservados</span>
+        <span>2024 - Coffeeteria</span>
       </footer>
     </div>
   )
